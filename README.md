@@ -7,7 +7,7 @@
 *New Google Books is a browser extension that brings [Google Books](https://books.google.com) to a whole new level.*
 
 
-*New Google Books* extension provides better designed view of Google Books, neatly organized bibliography and *About* sections, and additional information.
+*New Google Books* extension provides better designed look of Google Books, neatly organized bibliography and *About* sections, and additional information.
 
 ## Installation Instructions
 1. Download this repo as a [ZIP file from GitHub](https://github.com/lcookiel/newgooglebooks/releases/).
