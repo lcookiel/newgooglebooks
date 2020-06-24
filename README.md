@@ -10,11 +10,11 @@
 *New Google Books* extension provides better designed view of Google Books, neatly organized bibliography and *About* sections, and additional information.
 
 ## Installation Instructions
-1. Download this repo as a [ZIP file from GitHub](https://github.com/lcookiel/newgooglebooks).
+1. Download this repo as a [ZIP file from GitHub](https://github.com/lcookiel/newgooglebooks/releases/).
 1. Unzip the file and you should have a folder named `newgooglebooks`.
 1. In Chrome go to the extensions page (`chrome://extensions`).
 1. Enable *Developer Mode*.
-1. Click *Load Unpacked* button and choose the `newgooglebooks` directory, or simply drag the `newgooglebooks` folder anywhere on the page to import it (do not delete or move the folder afterwards).
+1. Click *Load Unpacked* button and choose the `newgooglebooks` directory to import it (do not delete or move the folder afterwards).
 
 ##
 
