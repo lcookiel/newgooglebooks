@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "New Google Books",
+  "version": "1.0.0",
+  "description": "Automatically redirects to the new design of Google Books.",
+  "icons": {
+      "16": "images/16.png",
+      "32": "images/32.png",
+      "64": "images/64.png",
+      "128": "images/128.png"
+    },
+  "background": {
+    "persistent": true,
+    "scripts": ["js/background.js"]
+  },
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "browser_action": {
+      "default_icon": "images/128.png"
+    }
+}
