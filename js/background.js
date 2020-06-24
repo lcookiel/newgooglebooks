@@ -1,11 +1,4 @@
-
-chrome.tabs.onCreated.addListener(function(){
-  console.log("tab created")
-});
-
-
 chrome.tabs.onUpdated.addListener(function(){
-  console.log("tab updated")
   chrome.tabs.query(
  {
   lastFocusedWindow: true,
@@ -15,7 +8,6 @@ chrome.tabs.onUpdated.addListener(function(){
  {
   var currenturl = tabs[0].url
   var urlstatus = tabs[0].status
-  // var title = tabs[0].title
   var domain = currenturl.split("/")[2].split(".").slice(0,2) // [books, google] OR [www, google]
   var check = currenturl.split("/")[3] // [books, google] OR [www, google]
   if (domain[0] === "books"
