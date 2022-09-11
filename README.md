@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lcookiel/newgooglebooks/blob/master/images/128.png" width="75" height="75"/>
+  <img src="https://github.com/lcookiel/newgooglebooks/blob/main/images/128.png" width="75" height="75"/>
 </p>
 
 <h1 align="center">New Google Books</h1>
