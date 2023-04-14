@@ -1,8 +1,8 @@
 {
-  "name": "New Google Books",
-  "version": "1.2.0",
+  "name": "Unofficial New Google Books Interface",
+  "version": "1.2.1",
   "manifest_version": 3,
-  "description": "Automatically redirects to the new design of Google Books.",
+  "description": "Automatically redirects to the new interface of Google Books. This extension is not an official product.",
   "homepage_url": "https://github.com/lcookiel/newgooglebooks",
   "icons": {
     "16": "images/16.png",
